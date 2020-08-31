@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home_page"
+        android:icon="@drawable/home"
+        android:title="Game"/>
+    <item android:id="@+id/leader_board_page"
+        android:icon="@drawable/leader_board"
+        android:title="Leader Board"/>
+    <item android:id="@+id/slot_page"
+        android:icon="@drawable/slot"
+        android:title="Slot"/>
+    <item android:id="@+id/menu_page"
+        android:icon="@drawable/menu"
+        android:title="Menu"/>
+</menu>
